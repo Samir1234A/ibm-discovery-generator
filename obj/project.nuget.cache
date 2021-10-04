@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJjo4GyF0h4bPL6D99zj+khxabJ0q05TwCN/CHzrpn++BTVoJGYb61WBe9mGvOVAexSgOC31MdcfdITXJr3oPg==",
+  "success": true,
+  "projectFilePath": "/home/mitsuo/scripts/ibm/generator/generator.csproj",
+  "expectedPackageFiles": [
+    "/home/mitsuo/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

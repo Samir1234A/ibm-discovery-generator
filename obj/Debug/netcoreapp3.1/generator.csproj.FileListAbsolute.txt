@@ -1,0 +1,15 @@
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.csprojAssemblyReference.cache
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.AssemblyInfoInputs.cache
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.AssemblyInfo.cs
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.csproj.CoreCompileInputs.cache
+/home/mitsuo/scripts/ibm/generator/bin/Debug/netcoreapp3.1/generator
+/home/mitsuo/scripts/ibm/generator/bin/Debug/netcoreapp3.1/generator.deps.json
+/home/mitsuo/scripts/ibm/generator/bin/Debug/netcoreapp3.1/generator.runtimeconfig.json
+/home/mitsuo/scripts/ibm/generator/bin/Debug/netcoreapp3.1/generator.runtimeconfig.dev.json
+/home/mitsuo/scripts/ibm/generator/bin/Debug/netcoreapp3.1/generator.dll
+/home/mitsuo/scripts/ibm/generator/bin/Debug/netcoreapp3.1/generator.pdb
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.dll
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.pdb
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.genruntimeconfig.cache
+/home/mitsuo/scripts/ibm/generator/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/mitsuo/scripts/ibm/generator/obj/Debug/netcoreapp3.1/generator.csproj.CopyComplete

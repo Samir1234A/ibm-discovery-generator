@@ -1,0 +1,1059 @@
+Department of Transportation
+transportation safety
+rail safety
+reduced accident rates
+Positive Train Control
+PTC settings and performance
+collaborative and data-driven safety
+Safety Management Systems
+SMS
+lessons learned from aviation safety
+SWIM-based applications
+open source software initiative
+best practices
+FAA SWIM Program
+systemwide information management
+flight data management
+surface data API
+ATC facility API
+future of aviation
+technical and professional activities
+Center for Advanced Aviation System Development
+annual CAASD publication
+next generation technologies
+advancing safety and security of aviation
+aerospace operations
+technology transfer
+intellectual property
+IP
+FAA's next generation initiative
+CAASD
+prototype system
+small aircraft
+Automatic Dependent Surveillance-Broadcast
+ADS-B
+GPS satellites
+Universal Access Transceiver Beacon Radio
+UBR
+2016 Annual Report
+global ecosystem
+diverse
+experienced people
+strong partnerships
+an innovation bridge
+breakthroughs in safety and security
+mission driven
+deliver transformational solutions
+Model-Based Systems Engineering
+MBSE
+Discrete-Event Simulation
+DES
+agile approach to analytics
+MEDEVAC mission thread
+integrated architectural model
+MITRE Innovation Program
+MIP
+Mission Essential and Mission Enhancing
+MEME
+Jaya Tripathi interview
+Prescription Drug Monitoring Program
+PDMP
+fraud and abuse of prescription painkillers
+predictive analytics
+Fraud Investigator's Analytic Tool
+FIAT
+prescription drug activity
+Trajectory Based Operations
+TBO
+trajectory prediction
+scheduling
+Decision Support Tools
+DSTs
+safe
+efficient
+and economic flow of inbound traffic
+Performance Based Navigation
+PBN
+next generation
+NextGen TBO
+Instrument Approach Procedures
+IAPs
+project story
+video analytics
+biometrics
+machine learning
+human language technology
+computational auditory perception
+sensors spot anomalies
+detect and avert public threats
+security cameras
+LinkBioMan
+APM framework
+Health Care Payment Learning & Action Network
+HCPLAN
+CMS Alliance to Modernize Healthcare
+CAMH
+shared risk
+population-based payments
+value-based health care system
+traffic flow management; modeling and simulation; distributed simulation; airborne reroute; metering
+employee voices
+Justin Brunelle
+web sciences
+cloud computing
+legacy environments
+cloud architectures
+ATARC
+IoT
+big data
+earned value management
+EVMS
+integrated master plan
+integrated master schedule
+program plan
+work breakdown structure
+WBS
+Jenn Forsyth
+electrical engineering
+early warning radar systems
+radar and satellite communications improvements
+technological improvements
+Arctic communications challenges
+cybersecurity
+risk assessment
+risk management
+return on investment
+game theory
+Cyber Security Game
+CSG
+information and communications technology
+ICT
+Cyber Mission Impact Assessment
+CMIA
+Information and Communication Technology
+ICT systems
+Generalized Addition Tallying Operation
+GATO
+rollup function
+mission performance
+National Oceanic and Atmospheric Administration
+NOAA
+swing table
+velocity addition formula
+Air Force interns
+MITRE interns
+refueling plans
+prototype electronic whiteboard solution
+Tanker Planner
+Air Tasking Order Management System
+Quantum key distribution
+QKD
+cryptosystem
+quantum measurement
+side channel attacks
+quantum bit error rate
+QBER
+avalanche photodiodes
+APDs
+4-Channel APD
+neutral density
+ND filter
+BB84 receiver
+backflash photons
+Cybersecurity
+Policy and Mission
+cyber risk assessments
+effective security measures with effective conversations
+shared mindset
+mission executives
+cybersecurity executives
+policy experts
+air traffic control
+remote tower operations
+MITRE Asia Pacific Singapore
+MAPS
+camera feeds and surveillance technology
+fixed-position cameras
+Civil Aviation Authority of Singapore
+remote tower prototype system
+Nuclear Posture Review
+NPR
+nuclear TRIAD
+strategic deterrentcapability
+U.S. nuclear policy
+strategies
+capabilities
+force posture
+introduction to blockchain
+use cases and research
+cryptography
+consensus
+distributed ledgers
+Ethereum
+Tendermint
+permissioned blockchain
+trust and security
+confidentiality
+transaction scalability
+blockchain-to-blockchain connectivity
+flight-specific reroutes
+flexible and agile management of airspace
+traffic managers
+Dijkstra\u2019s shortest path algorithm
+multi-objective optimization
+principal component analysis
+spectral clustering
+weather/constraint avoidance reroutes
+traffic flow management applications
+National Cybersecurity Center of Excellence
+NCCoE
+National Institute of Standards and Technology
+NIST
+Special Publication
+SP 1800 Series
+public-private partnerships
+secure technologies
+practice guide development process
+personally identifiable information
+PII
+protected health information
+PHI
+securing electronic health records
+EHR
+mobile devices
+securing Wireless Infusion Pumps
+securing Picture Archiving and Communication System
+PACS
+data sharing initiative
+Aviation Safety Information Analysis and Sharing
+ASIAS program
+shared aviation information
+Asia Pacific
+Civil Aviation Authority of Singapore
+CAAS
+aviation safety
+data sharing program
+air navigation service provider
+ANSP
+Flight Safety Foundation
+FSF partnership
+mid-air collision risk
+cyber resiliency engineering
+mitigating supply chain attacks
+resiliency techniques
+Systems Security Engineers
+SSEs
+Program Protection Plans
+PPPs
+Cyber Resiliency Engineering Framework
+CREF
+acquisition life cycle
+cyber/influence issues
+Russia
+internet and television propaganda
+Russian templates for influence
+Kaspersky anti-virus software
+cyber implants
+Russian cyber planners
+reflexive control
+RC
+cyber dead hand
+battlefield influence operations
+Next Generation Cyber Infrastructure
+NGCI program
+Homeland Security Systems Engineering & Development Institute
+HSSEDI
+NGCI Apex program
+Critical Infrastructures
+Financial Services Sector
+FSS
+Capital Markets
+National Market System
+NMS
+student voices article
+internships
+intern's story
+Joshua Cobbins
+gaining experience
+self-development
+real-world professional experience
+Australian Cyber Security Growth Network
+AustCyber
+mobile devices
+Essential Eight mitigation strategies
+Australian Signals Directorate
+ASD
+Information Security Manual
+ISM
+Practice Guide
+smart machines
+MITRE's iVAS prototype
+streamline communications
+interact with customers
+improve customer service
+speech recognition
+interactive voice agent
+natural language learning
+artificial intelligence
+infographic
+MITRE's history
+60 years
+Trusted Computer System Evaluation Criteria
+Orange Book
+STIX
+TAXII
+ATT&CK
+National Airspace System
+NAS
+Federal Aviation Administration
+FAA
+airport departure delay
+taxi-out time
+and on-time performance
+flight demand
+system capacity
+key performance indexes
+KPIs
+prototype user-facing visualizations
+Internet of Things
+IoT
+hypergraphs
+system entity structure
+complexity
+risk management
+complex systems
+fractals
+multifractal spectrum
+algorithms
+fluctuation analysis
+wavelets
+Multifractal Detrended Fluctuation Analysis
+MF-DFA
+Dynamic Airspace Routing Tool
+DART
+National Airspace System
+NAS
+space launches
+blocked airspace
+changes in airspace dimension
+location
+and activation time
+Terminal Area Forecast
+TAF
+National Plan of Integrated Airport Systems
+NPIAS
+Transportation Systems Analysis Model
+TSAM
+Project Story
+managing vulnerabilities
+cyber networks
+Robust Network Analysis
+RNA
+Functional Dependency Network Analysis
+FDNA
+cyber analytics
+research initiative
+robust optimization research
+Quantum key distribution
+QKD
+cryptosystem
+quantum measurement
+side channel attacks
+quantum bit error rate
+QBER
+avalanche photodiodes
+APDs
+4-Channel APD
+neutral density
+ND filter
+BB84 receiver
+backflash photons
+project story
+Collaboration Spaces initiative
+trusted adviser
+innovative ways to collaborate
+teams
+MITRE\u2019s Enterprise Computing
+Information
+and Security Innovation Program
+modernized workspaces
+neighborhoods
+huddle rooms
+collaboration coves
+project story
+artificial intelligence
+AI
+Fourth Industrial Revolution
+Generation AI Nexus
+big data
+data scientist shortage
+Generation AI
+data analytics
+machine-learning leaders
+online Hackathons
+concept of operations
+ConOps
+Human-In-The-Loop
+HITL simulation
+Time Based Management\u2013Required Time of Arrival
+TBM-RTA
+Flight Management Systems
+FMS
+Trajectory Based Operations
+TBO
+Path Stretch
+ATC
+new automation capabilities
+en route extended metering
+project story
+Federal Aviation Administration
+FAA
+National Airspace System
+NAS
+aviation safety
+MITRE's fleetForecaster
+future commercial fleet inventory
+data analysis
+information sharing
+intern program
+cybersecurity challenges
+National Cybersecurity FFRDC
+NCF principal work program
+National Cybersecurity Center of Excellence
+NCCoE
+National Institute of Standards and Technology
+NIST
+multifactor authentication
+eCommerce
+Internet of Things
+IoT
+mobile device security
+Armed Forces Communications & Electronics Association
+AFCEA
+international awards
+Dr. Chris Niessen
+Dr. Ben Poole
+2018 Meritorious Rising Star Award for Achievement in Engineering
+Forty Under Forty award
+military field radios
+Cookbook
+human-in-the-loop
+HITL simulation
+Interval Management
+IM clearance
+Terminal Sequencing and Spacing
+TSAS tools
+spacing terminal metering
+relative spacing
+absolute spacing
+air traffic controllers
+flight crews
+automation capabilities
+Assigned Spacing Goal
+ASG
+Area Navigation
+RNAV arrivals
+project stories
+MITRE\u2019s SIMEX process
+advanced simulations
+Decision Theater
+simulation experiment
+develop concepts of operations
+CONOPS
+controlled synthetic\nenvironment
+Simulation
+Experimentation and Analysis Lab
+SEAL
+National Security Experimentation Laboratory
+NSEL
+white paper
+Burke-Litwin Model
+organizational restructuring
+baseline organizational assessment
+organizational and environmental variables
+impact performance
+organizational change management
+information flow
+distributed systems
+EpiDB database
+public health analysts
+cryptographic protocols
+Modeling and Simulation
+M&S
+theory and practice
+concepts
+methods
+tools
+subject matter experts
+SMEs
+cyber complex adaptive systems
+CyCAS
+cyber systems engineering discipline
+CAS
+Cyber M&S
+Vulnerability Analysis
+graph theory
+hyperspectral imaging
+imaging spectroscopy
+manifold
+spectral density
+shared nearest neighbors
+SNN
+hyperspectral image
+HSI
+mutual proximity
+MP
+students
+interns photos and quotes
+hero carousel
+computer and cyber security
+robotics
+computing
+electrical engineering
+artificial intelligence
+aerospace engineering
+software development
+improper payments
+fraud
+Office of Management and Budget
+OMB
+independent study
+oversight and accountability
+Cross-Agency Priority Goal
+Enterprise Risk Management
+ERM
+student programs
+MITRE Institute courses
+summer interns
+Systems Visioneering Techniques
+Survey Design for Systems Engineering
+collaborative and interactive brainstorming methods
+GameStorming
+innovative solutions
+information and communications technologies
+ICT
+reliance on ICT
+framework for cybersecurity
+Cloud
+Block Chain
+data breach response
+Controlled Unclassified Information
+CUI
+Executive Orders
+ICT/Cyber legislation
+Fusion Centers
+Internet of Things
+IoT
+federal regulation
+state tort liability statutes
+connected medical devices
+ICT procurement
+MITRE Health
+analytic tools
+veterans at risk
+screening tool
+Veteran-ometer
+improve health outcomes
+University of Vermont
+partnership
+analysis of social media content
+depression
+PTSD
+UVA
+chronic health problems
+patient and provider partnerships
+improve health outcomes
+patient voice
+managing chronic conditions
+patient-generated data
+Patient Toolkit
+acquisition strategy
+agile
+agile acquisition
+agile development
+incremental
+uncertainty
+rapid
+Healthcare
+open source software
+health IT
+health data
+de-identified data
+innovation
+healthcare data
+Standard Health Record Collaborative
+SHRC
+Synthea
+software development life cycle
+SDLC
+Performance Engineering
+PE
+Capacity Planning
+CP
+Performance Operations
+PO
+service levels
+intern project
+deaf
+hard of hearing
+HOH community
+Video Relay Service
+VRS prototypes
+Federal Communications Commission
+FCC National Test Lab
+Internet Protocol Captioned Telephone Service
+IP CTS
+video telecommunications
+cyber-resilience
+future submarine design
+land-based test sites
+quantum attack surface
+test and evaluation
+employee voices
+mentor
+early career engineers
+wideband phased array antennas
+FUSE
+next generation of innovators
+electromagnetics
+team approach to innovation
+band-limited white Gaussian noise
+BLWGN
+EIT
+AT
+continuous-wave
+CW
+radio frequency
+RF
+electric
+E field strength
+CW RF E-field strength
+noise effects
+coherent signal-to-noise-power ratio
+CSNR
+student voices
+3D printing
+2017 intern challenge
+Bedford
+Dronenut drone application
+Slouch Potato
+posture-monitoring system
+floating
+airborne Automatic Dependent Surveillance-Broadcast
+ADS-B antenna
+student voices
+space-based infrared systems
+defense systems
+spectral clustering
+reroute air traffic
+cognitive assistance
+data analysis
+global unrest
+improve air traffic flow
+ChatBot
+NAO interactive robot
+Amazon Echo
+human genome
+chromosomes
+chemical database
+genetic grammar
+genetic decoding
+metabolic signal pathways
+radioactive isotopes
+germline modification
+somatic software
+DNA
+biotechnology
+information science
+genetic de-coding
+scientific breakthroughs
+student programs
+rising seniors
+early career opportunity
+NextUp
+career path post-graduation
+Virginia Tech interns
+campus event
+sUAS
+small Unmanned Aerial Systems
+safety
+risk management
+FAA
+Federal Aviation Administration
+risk assessment
+small unmanned aircraft systems
+risk model
+risk-based decision making
+analysis
+sAAT
+small UAS Airworthiness Assessment Tool risk model
+fatality
+population
+density
+human error
+onboard safety mitigation
+network nodes
+functional relationships
+physical relationships
+network
+vulnerability
+adversary traffic
+Prize Collection Steiner Tree
+functional analysis
+cybersecurity
+LinkBioMan
+Captioner
+computer vision
+AI
+decision framework
+interpretation
+events
+automated alerting
+context classification
+multimodal
+YouTube2Text
+TRECVid
+ContextNet
+random forests
+ablation
+APMs
+Alternative Payment Models
+HCPLAN
+Health Care Payment Learning & Action Network
+Medicare Advantage
+Medicare FFS
+Medicaid
+value-based payment
+efficiency
+shared-risk
+bundled payments
+population-based payments
+survey
+health care spending
+federal workforce
+OMB
+Office of Management and Budget
+symposium
+PMA
+President's Management Agenda
+workforce modernization
+workforce development
+management practices
+public sector
+private sector
+HR
+Human Resources
+operations
+IT
+Information Technology
+change management
+mission
+service
+stewardship
+challenges
+opportunities
+partnerships
+talent exchange programs
+data science
+training
+reskilling
+ICS
+cyber
+risk management
+Government of the Republic of Ghana
+cybersecurity
+Industrial Control System
+supervisory control
+data acquisition
+DCS
+Distributed Control Systems
+PLC
+Programmable Logic Controllers
+cyber enabled devices
+threats
+threat analysis
+ATT&CK
+threat intelligence
+adversary behavior
+monitoring
+intrusion detection
+python
+Transplant2Mongo
+Organ Procurement and Transplantation Network
+OPTN
+data
+health data
+STAR
+Standard Transplant Analysis and Research data
+UNOS
+organ transplant
+health care
+anaylsis
+MongoDB
+STEM
+education
+mentoring
+AI
+Generation AI Nexus
+game of drones
+Nibbler
+drone
+3-D printing
+Quantico
+Marine Corps
+hackathon
+MITRE Challenge
+employee voice
+Singapore
+Changi Airport
+CAAS
+Civil Aviation Authority of Singapore
+land use
+city planning
+urban planning
+security
+safety
+urban development
+OLS
+Obstacle Limitation Surfaces
+arrival
+departure
+paths
+airspace
+design thinking
+framework
+problem-solving
+lean startup
+stories
+user experience
+responsive
+systems engineering
+agile
+rapid
+prototyping
+methodology
+STEP
+Simulation Training Exercise Platform
+effect-impact relationship
+cyber
+cybersecurity
+simulation
+military
+civilian
+analysis
+simulation data
+cyber simulator
+DoD
+Department of Defense
+CMU
+Carnegie Mellon University
+ARL
+Army Research Lab
+FAA
+Federal Aviation Administration
+ATO
+Air Tasking Orders
+military
+air operations
+Agile development
+prototype
+automate
+process
+student voices
+innovation toolkit
+collaboration
+creativity
+human-centered design
+problem solving
+journey mapping
+organizational design
+dynamics
+teambuilding
+vehicle computer systems
+IoT
+Internet of Things
+cybersecurity
+embedded systems
+employee voice
+policy
+security
+criminology
+cyber
+CyCS
+Cyber Command Systems
+U.S. Army Central
+NIH
+National Institutes of Health
+FDA
+Food and Drug Administration
+DHS
+Department of Homeland Security
+Department of Treasury
+STEM
+satellite-based navigation and timing
+satnav systems
+Global Navigation Satellite System
+modern GNSS receivers
+space segment
+ground segment
+user segment
+satellites
+antenna electronics
+receivers
+STEM
+summer intern
+recruiting
+medicine
+genomics
+oncology
+patient data
+analytics
+DART
+Drone Assisted Radar Target
+software design
+mission
+planning
+aircraft
+architecture
+radio
+communication
+machine learning
+artificial intelligence
+cybersecurity
+computer vision
+SIMEX
+simulation experiment
+NSEL
+National Security Experimentation Lab
+SEAL
+Simulation Experimentation and Analytics Lab
+volunteering
+polio vaccine
+Africa
+humanitarian
+children's health
+civic leave program
+deaf
+hard of hearing
+FCC
+Federal Communications Commission
+TRS
+Telecommunications Relay Service
+NTL
+National Test Lab
+IP CTS
+Internet Protocol Captioned Telephone Services
+VRS
+Video Relay Service
+ACE Direct
+Accessible Communications for Everyone Direct
+FMS
+Flight Management System
+data
+planned route information
+PBN
+Performance Based Navigation
+NAS
+National Airspace System
+flight data
+data analytics
+legal decision-support systems
+administrative efficiency
+judicial consistency
+machine learning
+outcome prediction
+decision prediction
+SCALE
+Semi-supervised Case Annotation for Legal Explanations
+HLT
+Human Language Technology
+higher airspace
+traffic management services
+ATM
+Air Traffic Management
+lighter-than-air operations
+unmanned operations
+ICAO
+International Civil Aviation Organization
+stratosphere
+traffic synchronization
+recruiting
+LinkedIn
+Twitter
+employee networks
+hiring
+social media
+cyber awareness
+military
+warfighters
+cybersecurity
+cyber situational awareness
+electronic warfare
+NAS
+National Airspace System
+unmanned aircraft systems
+commercial space vehicles
+AI
+Artificial Intelligence
+data analytics
+data fusion
+machine learning
+ARIA
+Aviation Risk Identification and Assessment
+risk-based decision making
+health care
+information technology
+clinical care
+health IT
+testing
+Naval Surface Warfare Center
+rapid procurement
+rapid technology insertion
+acquisition planning
+digital acquisition
+defense acquisition
+FASTLane
+DNS
+Domain Name System
+DNS tunneling
+machine learning
+ATC
+Air Traffic Control
+aircraft spacing
+parallel runway operations
+FAA
+Federal Aviation Administration
+NextGen
+interval management
+ADS-B
+Automatic Dependent Surveillance-Broadcast
+avionics
+paired approach
+closely-spaced parallel runways
+Russia
+operation art
+space operations
+satellites
+communications
+navigation
+reconnaissance
+military operations
+K-Band
+communication
+satellite constellation
+low earth orbit
+radio frequency transmitters
+cost modeling
+flexibility
+acquisition
+software development
+security
+operations
+DevSecOps
+Agile
+Amazon Web Services
+GovCloud
+cloud-hosted IT systems
+operation
+maintenance
+cost savings
